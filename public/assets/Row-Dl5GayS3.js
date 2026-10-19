@@ -1,0 +1,21 @@
+import{c as r,j as e,d as c}from"./index-BIlTs4b0.js";import{r as d,L as i}from"./vendor-C8sxiqDv.js";import{P as u}from"./ProductCard-Dzo2-CUO.js";/**
+ * @license lucide-react v0.400.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const h=r("ChevronLeft",[["path",{d:"m15 18-6-6 6-6",key:"1wnfg3"}]]);/**
+ * @license lucide-react v0.400.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const f=r("ChevronRight",[["path",{d:"m9 18 6-6-6-6",key:"mthhwq"}]]);/**
+ * @license lucide-react v0.400.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const N=r("ShieldCheck",[["path",{d:"M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z",key:"oel41y"}],["path",{d:"m9 12 2 2 4-4",key:"dzmm74"}]]);/**
+ * @license lucide-react v0.400.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const j=r("Zap",[["path",{d:"M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z",key:"1xq2db"}]]);function x({title:a,to:o,items:m}){const s=d.useRef(),n=t=>s.current.scrollBy({left:t*600,behavior:"smooth"});return e.jsxDEV("section",{className:"card relative p-5",children:[e.jsxDEV("div",{className:"mb-4 flex items-end justify-between",children:[e.jsxDEV("h2",{className:"font-display text-xl font-extrabold",children:a},void 0,!1,{fileName:"D:/premium-themforest-projects/TechbuddyStudyValt/v9/rankway-store/frontend/src/components/Row.jsx",lineNumber:10,columnNumber:60},this),o&&e.jsxDEV(i,{to:o,className:"text-sm font-semibold text-brand",children:"See all"},void 0,!1,{fileName:"D:/premium-themforest-projects/TechbuddyStudyValt/v9/rankway-store/frontend/src/components/Row.jsx",lineNumber:10,columnNumber:131},this)]},void 0,!0,{fileName:"D:/premium-themforest-projects/TechbuddyStudyValt/v9/rankway-store/frontend/src/components/Row.jsx",lineNumber:10,columnNumber:7},this),e.jsxDEV("button",{onClick:()=>n(-1),className:"absolute left-1 top-1/2 z-10 hidden h-10 w-10 place-items-center rounded-full bg-surface shadow-lg md:grid","aria-label":"Scroll left",children:e.jsxDEV(h,{},void 0,!1,{fileName:"D:/premium-themforest-projects/TechbuddyStudyValt/v9/rankway-store/frontend/src/components/Row.jsx",lineNumber:11,columnNumber:182},this)},void 0,!1,{fileName:"D:/premium-themforest-projects/TechbuddyStudyValt/v9/rankway-store/frontend/src/components/Row.jsx",lineNumber:11,columnNumber:7},this),e.jsxDEV("button",{onClick:()=>n(1),className:"absolute right-1 top-1/2 z-10 hidden h-10 w-10 place-items-center rounded-full bg-surface shadow-lg md:grid","aria-label":"Scroll right",children:e.jsxDEV(f,{},void 0,!1,{fileName:"D:/premium-themforest-projects/TechbuddyStudyValt/v9/rankway-store/frontend/src/components/Row.jsx",lineNumber:12,columnNumber:183},this)},void 0,!1,{fileName:"D:/premium-themforest-projects/TechbuddyStudyValt/v9/rankway-store/frontend/src/components/Row.jsx",lineNumber:12,columnNumber:7},this),e.jsxDEV("div",{ref:s,className:"flex gap-4 overflow-x-auto scroll-smooth pb-2 [scrollbar-width:none]",children:(m||Array.from({length:6})).map((t,l)=>t?e.jsxDEV(u,{p:t,className:"w-44 shrink-0"},t.id,!1,{fileName:"D:/premium-themforest-projects/TechbuddyStudyValt/v9/rankway-store/frontend/src/components/Row.jsx",lineNumber:14,columnNumber:65},this):e.jsxDEV(c,{className:"h-72 w-44 shrink-0"},l,!1,{fileName:"D:/premium-themforest-projects/TechbuddyStudyValt/v9/rankway-store/frontend/src/components/Row.jsx",lineNumber:14,columnNumber:126},this))},void 0,!1,{fileName:"D:/premium-themforest-projects/TechbuddyStudyValt/v9/rankway-store/frontend/src/components/Row.jsx",lineNumber:13,columnNumber:7},this)]},void 0,!0,{fileName:"D:/premium-themforest-projects/TechbuddyStudyValt/v9/rankway-store/frontend/src/components/Row.jsx",lineNumber:9,columnNumber:5},this)}export{x as R,N as S,j as Z};

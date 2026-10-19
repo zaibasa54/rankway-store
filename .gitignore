@@ -1,0 +1,6 @@
+node_modules
+.env
+store.zip
+export-neon.js
+data.sql
+schema-neon.txt
